@@ -10,7 +10,7 @@ Once bitcoin is below your specified value, you will recieve a notification with
 
 ## Third party API specs
 
-- API Endpointhttp           : https://api.coindesk.com/v1/bpi/currentprice/USD.json
+- API Endpoint               : https://api.coindesk.com/v1/bpi/currentprice/USD.json
 
 - Docs Home Page URL         : http://www.coindesk.com/api/
 
